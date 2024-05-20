@@ -559,6 +559,15 @@ section {
   margin-right: 120px;
 }
 
+.container-subs {
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+
 .logo-footer {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -639,4 +648,8 @@ section {
 
 .footer-svg-social-media {
   fill: #f4f4fd;
+}
+
+.form {
+  display: flex;
 }

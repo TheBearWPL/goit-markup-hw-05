@@ -670,8 +670,8 @@ section {
   border: solid 1px #fff;
   background-color: transparent;
   font-size: 12px;
-  line-height: 2px;
-  letter-spacing: 0, 04em;
+  line-height: 2;
+  letter-spacing: 0.04em;
   color: #fff;
   padding-left: 16px;
   box-shadow: 0 4px 4px 0 (rgba(0, 0, 0, 0.15));
@@ -679,4 +679,27 @@ section {
 
 ::placeholder {
   color: #fff;
+}
+
+.btn-footer {
+  display: flex;
+  min-width: 165px;
+  height: 40px;
+  padding: 8px 24px 8px 24px;
+  gap: 16px;
+  border-radius: 4px;
+  background-color: #4d5ae5;
+  color: #fff;
+  font-weight: 500;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  border: none;
+}
+
+.footer-svg-subscribe {
+  margin-left: 16px;
+  fill: #fff;
 }

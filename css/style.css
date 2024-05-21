@@ -566,6 +566,7 @@ section {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
+  margin-left: 80px;
 }
 
 .logo-footer {
@@ -650,6 +651,11 @@ section {
   fill: #f4f4fd;
 }
 
+.subscribe {
+  margin-bottom: 16px;
+}
+
 .form {
   display: flex;
+  gap: 24px;
 }

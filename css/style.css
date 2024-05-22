@@ -728,7 +728,7 @@ section {
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-btn-modal {
+.btn-modal {
   position: absolute;
   top: 24px;
   right: 24px;
@@ -746,12 +746,12 @@ btn-modal {
     border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-btn-modal:hover {
+.btn-modal:hover {
   background-color: #404bbf;
   border: none;
 }
 
-btn-modal:focus {
+.btn-modal:focus {
   background-color: #404bbf;
   border: none;
 }

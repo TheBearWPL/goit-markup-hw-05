@@ -761,11 +761,7 @@ section {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.svg-modal:hover {
-  fill: #ffffff;
-}
-
-.svg-modal:focus {
+.svg-modal:hover:focus {
   fill: #ffffff;
 }
 
@@ -809,7 +805,7 @@ section {
 }
 
 .visually-hidden {
-  display: none;
+  overflow: hidden;
 }
 
 .svg-two-modal {
@@ -878,7 +874,7 @@ section {
   fill: transparent;
 }
 
-input-modal:hover .span-etiquette {
+.input-modal:hover .span-etiquette {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;

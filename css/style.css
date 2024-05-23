@@ -886,7 +886,7 @@ section {
   fill: transparent;
 }
 
-.input-modal:hover .span-etiquette {
+.input-checkbox:active .span-etiquette::after {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;

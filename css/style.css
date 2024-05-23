@@ -894,7 +894,9 @@ section {
   fill: transparent;
 }
 
-.svg-two-modal .input-modal:checked .in-label-modal {
+.svg-two-modal,
+.input-modal:checked,
+.in-label-modal {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;

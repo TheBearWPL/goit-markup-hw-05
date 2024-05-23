@@ -886,7 +886,7 @@ section {
   fill: transparent;
 }
 
-.input-checkbox:active .span-etiquette::after {
+.input-checkbox:focus-within .span-etiquette:focus-within {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;

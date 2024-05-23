@@ -749,11 +749,13 @@ section {
 
 .btn-modal:focus {
   background-color: #404bbf;
+  fill: #fff;
   border: none;
 }
 
 .btn-modal:hover {
   background-color: #404bbf;
+  fill: #fff;
   border: none;
 }
 

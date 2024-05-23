@@ -740,6 +740,7 @@ section {
   justify-content: center;
   align-items: center;
   background-color: #e7e9fc;
+  fill: #fff;
   border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 0;
   cursor: pointer;

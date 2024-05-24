@@ -895,7 +895,7 @@ section {
 }
 
 .svg-two-modal,
-.input-modal:checked,
+.checkbox .visually-hidden:checked,
 .in-label-modal {
   background-color: #404bbf;
   border: none;

@@ -900,9 +900,9 @@ section {
 
 .span-etiquette .checkbox:checked,
 .etiquette {
-  background-color: var(--background-color-var);
+  background-color: var(--background-color-var, #404bbf);
   border: none;
-  fill: var(--fill-var);
+  fill: var(--fill-var, #f4f4fd);
 }
 
 .btn-send {

@@ -904,6 +904,9 @@ section {
   fill: #f4f4fd;
 }
 
+.svg-etiquette {
+}
+
 .svg-etiquette:focus {
   fill: #4d5ae5;
 }

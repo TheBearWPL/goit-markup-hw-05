@@ -906,11 +906,6 @@ section {
   fill: var(--fill-var);
 }
 
-:root {
-  background-color: #404bbf;
-  fill: #f4f4fd;
-}
-
 .btn-send {
   display: block;
   min-width: 169px;

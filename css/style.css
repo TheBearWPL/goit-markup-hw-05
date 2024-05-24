@@ -894,7 +894,9 @@ section {
   fill: transparent;
 }
 
-.span-etiquette .checkbox:checked,
+.svg-etiquette,
+.checkbox:checked,
+.visually-hidden,
 .etiquette {
   background-color: #404bbf;
   border: none;

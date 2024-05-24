@@ -894,10 +894,10 @@ section {
   fill: transparent;
 }
 
-.svg-two-modal,
+.span-etiquette,
 .checkbox:checked,
 .visually-hidden,
-.in-label-modal {
+.etiquette {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;

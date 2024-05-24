@@ -869,6 +869,10 @@ section {
   margin-bottom: 24px;
 }
 
+.checkbox-etiquette:focus-within {
+  fill: #4d5ae5;
+}
+
 .checkbox {
   visibility: hidden;
 }

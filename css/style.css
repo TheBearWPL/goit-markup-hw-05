@@ -907,7 +907,7 @@ section {
 .svg-etiquette {
 }
 
-.svg-etiquette:focus {
+.svg-etiquette:focus-within {
   fill: #4d5ae5;
 }
 

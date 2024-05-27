@@ -939,7 +939,7 @@ section {
 
 /* Media */
 
-@media (max-width: 320px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
   body {
     background-color: yellow;
   }

@@ -765,7 +765,10 @@ section {
 
 .svg-modal {
   position: absolute;
-  top: 35%;
+  top: 24px;
+  right: 24px;
+  width: 24px;
+  height: 24px;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   text-align: center;
   justify-content: center;

@@ -770,6 +770,7 @@ section {
   text-align: center;
   justify-content: center;
   align-items: center;
+  margin-bottom: 12px;
 }
 
 .svg-modal:hover:focus {

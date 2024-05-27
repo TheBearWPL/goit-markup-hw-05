@@ -936,16 +936,3 @@ section {
 .link-policy {
   color: #4d5ae5;
 }
-
-/* Media */
-
-@media (min-width: 320px) and (max-width: 767px) {
-  body {
-    background-color: yellow;
-  }
-}
-@media (min-width: 768px) and (max-width: 1158px) {
-  body {
-    background-color: blue;
-  }
-}

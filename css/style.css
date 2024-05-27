@@ -765,12 +765,11 @@ section {
 
 .svg-modal {
   position: absolute;
-  top: 100%;
+  top: 50%;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   text-align: center;
   justify-content: center;
   align-items: center;
-  margin: 8px, 8px;
 }
 
 .svg-modal:hover:focus {
